@@ -1,6 +1,7 @@
 {
   "name": "widgify",
   "version": "0.1.0",
+  "homepage": "https://matijastampfel.github.io/Widgify/",
   "private": true,
   "dependencies": {
     "firebase": "^3.9.0",
