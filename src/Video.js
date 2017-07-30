@@ -4,7 +4,7 @@ import YTSearch from 'youtube-api-search';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 import './App.css';
-const API_KEY = 'AIzaSyCQMSAf-4GdhWVd8YrSC43s-OskR0GzT98';
+const API_KEY = 'AIzaSyCnm1d5UCt0Wkr5zhqufIcgdwr2MrwLuOw';
 import { Grid, Row, Col } from 'react-flexbox-grid';
 import {Card, CardTitle, CardMedia} from 'material-ui/Card';
 
